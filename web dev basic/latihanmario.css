@@ -1,0 +1,28 @@
+.paragraph {
+    text-align: justify;
+    color: slategray;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.h1 {
+    color: greenyellow;
+    background-color: darkolivegreen; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.h2 {
+    color: greenyellow;
+    background-color: darkolivegreen;
+    text-align: center;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.ul {
+    color: slategray;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a {
+    color: slategrey; 
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
