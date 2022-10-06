@@ -15,3 +15,28 @@ padding: 20px 20px 0 0;
     height: 100px;
     width: 100px;
 }
+
+.h1 {
+    color: greenyellow;
+    background-color: darkolivegreen; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.h2 {
+    color: greenyellow;
+    background-color: darkolivegreen;
+    text-align: center;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h4 {
+    text-align: center;
+    color: greenyellow;
+    background-color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragraph {
+    color: slategray;
+    text-align: justify; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
